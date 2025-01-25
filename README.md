@@ -1,14 +1,13 @@
 # 🎬 Movie Rankings Analysis – Power BI Project  
 
 ## 📌 Project Overview  
-This Power BI project explores **what factors influence a movie’s ranking**, analyzing trends over time and across different genres. The visualizations provide insights into how **genre, time period, and production trends** impact rankings, helping to identify patterns in movie success.
+This project explores **what factors influence a movie’s ranking**, analyzing trends over time and across different genres. The visualizations provide insights into how **genre, time period, and production trends** impact rankings, helping to identify patterns in movie success.
 
 ## 📊 Visualizations & Insights  
 
 1. **Average Movie Rank by Year** – Examines how movie rankings have changed over time, showing trends in audience and critic perceptions.
 2. **Average Movie Rank by Genre** – Highlights which movie genres receive the highest and lowest rankings.
 3. **Distribution of Movies Across Genres** – Shows the most frequently produced movie genres, comparing popularity with ranking performance.
-4. **Average Rank by Genre and Year** – Analyzes ranking fluctuations for specific genres over different time periods.
    
 ### 📈 Key Findings  
 - **Documentary and Film-Noir movies** tend to receive higher rankings, while **Sci-Fi and Horror films** rank lower.  
@@ -17,7 +16,7 @@ This Power BI project explores **what factors influence a movie’s ranking**, a
 - Some genres have shown **ranking consistency**, while others have fluctuated significantly over different time periods.  
 
 ## 🛠️ How to Use  
-1. Open the **Power BI file (`movies_analysis.pbix`)** to interact with the visualizations.  
+1. Open the **Power BI file (`movies.pbix`)** to interact with the visualizations.  
 2. Adjust filters (e.g., years, genres) to explore different insights.  
 3. Modify the dataset if additional analysis is required.  
 
@@ -28,11 +27,12 @@ This Power BI project explores **what factors influence a movie’s ranking**, a
 
 ## 📂 Project Files  
 - `movies_analysis.pbix` – Power BI report file  
-- `movies_cleaned.csv` – Cleaned dataset used for analysis  
+- `movies_cleaned.csv` – Cleaned dataset used for analysis
+- 'movies summary report pdf - summary report of findings  
 - `README.md` – Project documentation (this file)  
 
 ## 📝 Author  
-This project was created as part of a data visualization analysis in Power BI.  
+This project was created as part of a data visualization analysis project in Power BI.  
 
 ---
 
